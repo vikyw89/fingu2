@@ -47,8 +47,7 @@ function IntroSection({ setInput }: { setInput: (input: string) => void }) {
               Finance Agent
             </div>
             <div>
-              Open source finance agent + generative UI using Openai, Langchain
-              and Vercel AI
+              FINGU: Your AI-powered financial assistant
             </div>
           </div>
         </CardHeader>
